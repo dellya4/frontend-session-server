@@ -83,3 +83,7 @@ backend_server/
 | `/auth/admin/action-logs` | GET   | Журнал действий (админ)           |
 
 ```
+## Клиентская часть
+```
+https://github.com/dellya4/frontend-session
+```
